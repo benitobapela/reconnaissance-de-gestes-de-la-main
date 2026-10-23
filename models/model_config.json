@@ -1,0 +1,61 @@
+
+{
+  "model_name": "HandGesture-5G K-NN",
+  "model_version": "1.0",
+  "algorithm": "KNeighborsClassifier",
+  "pipeline": [
+    "StandardScaler",
+    "KNeighborsClassifier"
+  ],
+  "classifier_parameters": {
+    "n_neighbors": 3,
+    "weights": "distance",
+    "metric": "euclidean"
+  },
+  "features": {
+    "count": 7,
+    "columns": [
+      "Hu1",
+      "Hu2",
+      "Hu3",
+      "Hu4",
+      "Hu5",
+      "Hu6",
+      "Hu7"
+    ],
+    "source": "Largest external contour",
+    "transformation": "-sign(Hu_i) * log10(max(abs(Hu_i), 1e-30))"
+  },
+  "preprocessing": {
+    "resize_max_side": 256,
+    "allow_upscaling": false,
+    "color_space": "HSV",
+    "skin_lower_bound": [0, 20, 40],
+    "skin_upper_bound": [25, 255, 255],
+    "morphology": {
+      "closing_kernel": "ellipse 5x5",
+      "closing_iterations": 1,
+      "opening_kernel": "ellipse 3x3",
+      "opening_iterations": 1
+    },
+    "contour_selection": "Largest external contour"
+  },
+  "training": {
+    "dataset": "HandGesture-5G",
+    "total_images": 2653,
+    "training_images": 2122,
+    "test_images": 531,
+    "split_strategy": "StratifiedGroupKFold",
+    "split_folds": 5,
+    "random_state": 42,
+    "test_used_for_training": false
+  },
+  "classes": [
+    "Fist",
+    "L-Sign",
+    "Open Palm_Open Hand",
+    "Pointing Up",
+    "V-Sign"
+  ],
+  "saved_pipeline": "knn_pipeline.pkl"
+}
