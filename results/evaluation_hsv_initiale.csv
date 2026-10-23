@@ -1,0 +1,6 @@
+﻿classe,fichier_hsv,dimensions,pixels_blancs,proportion_blanche_pct,nombre_contours_externes,aire_plus_grand_contour_pct_image,fichier_masque
+Fist,Fist\IMG_0280 2__jpg.npy,256x256,23175,35.36,1,35.71,data\processed\masks_hsv_initials\Fist\IMG_0280 2__jpg.png
+L-Sign,L-Sign\IMG_0484__jpeg.npy,256x256,20989,32.03,1,31.48,data\processed\masks_hsv_initials\L-Sign\IMG_0484__jpeg.png
+Open Palm_Open Hand,Open Palm_Open Hand\IMG_0252__jpg.npy,256x256,28474,43.45,2,42.47,data\processed\masks_hsv_initials\Open Palm_Open Hand\IMG_0252__jpg.png
+Pointing Up,Pointing Up\IMG_0386__jpeg.npy,256x256,6801,10.38,3,9.65,data\processed\masks_hsv_initials\Pointing Up\IMG_0386__jpeg.png
+V-Sign,V-Sign\IMG_0580__jpeg.npy,256x256,15708,23.97,17,23.4,data\processed\masks_hsv_initials\V-Sign\IMG_0580__jpeg.png

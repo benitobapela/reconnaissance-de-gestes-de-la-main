@@ -1,0 +1,26 @@
+﻿classe,configuration,dimensions,pixels_blancs,proportion_blanche_pct,nombre_contours_externes,aire_plus_grand_contour_pct_image,fichier_masque
+Fist,Initial,256x256,23175,35.362,1,35.711,
+Fist,A_close_3x3,256x256,23213,35.42,1,35.72,data\processed\masks_hsv_morphologie\A_close_3x3\Fist\IMG_0280 2__jpg.png
+Fist,B_close_5x5,256x256,23332,35.602,1,35.739,data\processed\masks_hsv_morphologie\B_close_5x5\Fist\IMG_0280 2__jpg.png
+Fist,C_close5_open3,256x256,23330,35.599,1,35.738,data\processed\masks_hsv_morphologie\C_close5_open3\Fist\IMG_0280 2__jpg.png
+Fist,D_close7_open3,256x256,23366,35.654,1,35.758,data\processed\masks_hsv_morphologie\D_close7_open3\Fist\IMG_0280 2__jpg.png
+L-Sign,Initial,256x256,20989,32.027,1,31.485,
+L-Sign,A_close_3x3,256x256,20995,32.036,1,31.485,data\processed\masks_hsv_morphologie\A_close_3x3\L-Sign\IMG_0484__jpeg.png
+L-Sign,B_close_5x5,256x256,21004,32.05,1,31.496,data\processed\masks_hsv_morphologie\B_close_5x5\L-Sign\IMG_0484__jpeg.png
+L-Sign,C_close5_open3,256x256,21002,32.047,1,31.495,data\processed\masks_hsv_morphologie\C_close5_open3\L-Sign\IMG_0484__jpeg.png
+L-Sign,D_close7_open3,256x256,21008,32.056,1,31.504,data\processed\masks_hsv_morphologie\D_close7_open3\L-Sign\IMG_0484__jpeg.png
+Open Palm_Open Hand,Initial,256x256,28474,43.448,2,42.471,
+Open Palm_Open Hand,A_close_3x3,256x256,28481,43.459,2,42.483,data\processed\masks_hsv_morphologie\A_close_3x3\Open Palm_Open Hand\IMG_0252__jpg.png
+Open Palm_Open Hand,B_close_5x5,256x256,28487,43.468,2,42.489,data\processed\masks_hsv_morphologie\B_close_5x5\Open Palm_Open Hand\IMG_0252__jpg.png
+Open Palm_Open Hand,C_close5_open3,256x256,28485,43.465,2,42.488,data\processed\masks_hsv_morphologie\C_close5_open3\Open Palm_Open Hand\IMG_0252__jpg.png
+Open Palm_Open Hand,D_close7_open3,256x256,28636,43.695,2,42.761,data\processed\masks_hsv_morphologie\D_close7_open3\Open Palm_Open Hand\IMG_0252__jpg.png
+Pointing Up,Initial,256x256,6801,10.378,3,9.653,
+Pointing Up,A_close_3x3,256x256,6805,10.384,3,9.658,data\processed\masks_hsv_morphologie\A_close_3x3\Pointing Up\IMG_0386__jpeg.png
+Pointing Up,B_close_5x5,256x256,6814,10.397,3,9.669,data\processed\masks_hsv_morphologie\B_close_5x5\Pointing Up\IMG_0386__jpeg.png
+Pointing Up,C_close5_open3,256x256,6796,10.37,3,9.667,data\processed\masks_hsv_morphologie\C_close5_open3\Pointing Up\IMG_0386__jpeg.png
+Pointing Up,D_close7_open3,256x256,6802,10.379,3,9.674,data\processed\masks_hsv_morphologie\D_close7_open3\Pointing Up\IMG_0386__jpeg.png
+V-Sign,Initial,256x256,15708,23.969,17,23.4,
+V-Sign,A_close_3x3,256x256,15801,24.11,12,23.521,data\processed\masks_hsv_morphologie\A_close_3x3\V-Sign\IMG_0580__jpeg.png
+V-Sign,B_close_5x5,256x256,15865,24.208,13,23.598,data\processed\masks_hsv_morphologie\B_close_5x5\V-Sign\IMG_0580__jpeg.png
+V-Sign,C_close5_open3,256x256,15826,24.149,3,23.589,data\processed\masks_hsv_morphologie\C_close5_open3\V-Sign\IMG_0580__jpeg.png
+V-Sign,D_close7_open3,256x256,15858,24.197,3,23.636,data\processed\masks_hsv_morphologie\D_close7_open3\V-Sign\IMG_0580__jpeg.png

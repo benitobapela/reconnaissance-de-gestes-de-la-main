@@ -1,0 +1,11 @@
+﻿classe,rang_contour,configuration,aire_px2,aire_pct_image,perimetre_px,x,y,largeur,hauteur,centre_x,centre_y,fichier_masque
+Fist,1,C_close5_open3,23421.5,35.738,679.747,26,29,137,227,94.5,142.5,data\processed\masks_hsv_morphologie\C_close5_open3\Fist\IMG_0280 2__jpg.png
+L-Sign,1,C_close5_open3,20640.5,31.495,826.624,0,36,231,220,115.5,146.0,data\processed\masks_hsv_morphologie\C_close5_open3\L-Sign\IMG_0484__jpeg.png
+Open Palm_Open Hand,1,C_close5_open3,27845.0,42.488,1322.607,28,24,228,232,142.0,140.0,data\processed\masks_hsv_morphologie\C_close5_open3\Open Palm_Open Hand\IMG_0252__jpg.png
+Open Palm_Open Hand,2,C_close5_open3,24.0,0.037,29.657,0,251,13,5,6.5,253.5,data\processed\masks_hsv_morphologie\C_close5_open3\Open Palm_Open Hand\IMG_0252__jpg.png
+Pointing Up,1,C_close5_open3,6335.5,9.667,493.605,81,72,86,184,124.0,164.0,data\processed\masks_hsv_morphologie\C_close5_open3\Pointing Up\IMG_0386__jpeg.png
+Pointing Up,2,C_close5_open3,195.5,0.298,91.983,103,211,24,36,115.0,229.0,data\processed\masks_hsv_morphologie\C_close5_open3\Pointing Up\IMG_0386__jpeg.png
+Pointing Up,3,C_close5_open3,2.0,0.003,5.657,100,209,3,3,101.5,210.5,data\processed\masks_hsv_morphologie\C_close5_open3\Pointing Up\IMG_0386__jpeg.png
+V-Sign,1,C_close5_open3,15459.5,23.589,759.914,56,53,174,203,143.0,154.5,data\processed\masks_hsv_morphologie\C_close5_open3\V-Sign\IMG_0580__jpeg.png
+V-Sign,2,C_close5_open3,11.5,0.018,15.899,242,240,6,6,245.0,243.0,data\processed\masks_hsv_morphologie\C_close5_open3\V-Sign\IMG_0580__jpeg.png
+V-Sign,3,C_close5_open3,4.0,0.006,8.828,253,252,3,4,254.5,254.0,data\processed\masks_hsv_morphologie\C_close5_open3\V-Sign\IMG_0580__jpeg.png

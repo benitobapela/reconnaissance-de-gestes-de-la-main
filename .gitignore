@@ -1,0 +1,22 @@
+
+# Dataset brut et données intermédiaires
+/data/raw/
+/data/processed/
+
+# Environnements Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
