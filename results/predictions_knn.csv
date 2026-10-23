@@ -1,0 +1,532 @@
+image_id,classe_reelle,classe_predite
+Fist/IMG_0010__jpg.npy,Fist,Fist
+Fist/IMG_0011__jpg.npy,Fist,Fist
+Fist/IMG_0012__jpg.npy,Fist,Fist
+Fist/IMG_0013__jpg.npy,Fist,Fist
+Fist/IMG_0014__jpg.npy,Fist,Fist
+Fist/IMG_0076 2__jpg.npy,Fist,Fist
+Fist/IMG_0076__jpg.npy,Fist,Fist
+Fist/IMG_0079 2__jpg.npy,Fist,Fist
+Fist/IMG_0079__jpg.npy,Fist,Fist
+Fist/IMG_0081 2__jpg.npy,Fist,Fist
+Fist/IMG_0081__jpg.npy,Fist,Fist
+Fist/IMG_0149 2__jpg.npy,Fist,Fist
+Fist/IMG_0149__jpg.npy,Fist,Fist
+Fist/IMG_0155 2__jpg.npy,Fist,Fist
+Fist/IMG_0155__jpg.npy,Fist,Fist
+Fist/IMG_0157 2__jpg.npy,Fist,Fist
+Fist/IMG_0157__jpg.npy,Fist,Fist
+Fist/IMG_0158 2__jpg.npy,Fist,Fist
+Fist/IMG_0158__jpg.npy,Fist,Fist
+Fist/IMG_0269 2__jpg.npy,Fist,Open Palm_Open Hand
+Fist/IMG_0269__jpg.npy,Fist,Open Palm_Open Hand
+Fist/IMG_0272 2__jpg.npy,Fist,Fist
+Fist/IMG_0272__jpg.npy,Fist,Fist
+Fist/IMG_0273 2__jpg.npy,Fist,Fist
+Fist/IMG_0273__jpg.npy,Fist,Fist
+Fist/IMG_0280 2__jpg.npy,Fist,Fist
+Fist/IMG_0280__jpg.npy,Fist,Fist
+Fist/IMG_0282 2__jpg.npy,Fist,Fist
+Fist/IMG_0282__jpg.npy,Fist,Fist
+Fist/IMG_0286 2__jpg.npy,Fist,Fist
+Fist/IMG_0286__jpg.npy,Fist,Fist
+Fist/IMG_0423__jpeg.npy,Fist,Fist
+Fist/IMG_0425__jpeg.npy,Fist,Fist
+Fist/IMG_0433__jpeg.npy,Fist,Fist
+Fist/IMG_0436__jpeg.npy,Fist,Fist
+Fist/IMG_0439__jpeg.npy,Fist,Fist
+Fist/IMG_0440__jpeg.npy,Fist,Fist
+Fist/IMG_0442__jpeg.npy,Fist,Fist
+Fist/IMG_0447__jpeg.npy,Fist,Fist
+Fist/IMG_0855__jpeg.npy,Fist,Fist
+Fist/IMG_0855__jpg.npy,Fist,Fist
+Fist/IMG_0861__jpeg.npy,Fist,Fist
+Fist/IMG_0861__jpg.npy,Fist,Fist
+Fist/IMG_0865__jpeg.npy,Fist,Fist
+Fist/IMG_0865__jpg.npy,Fist,Fist
+Fist/IMG_0873__jpeg.npy,Fist,Fist
+Fist/IMG_0873__jpg.npy,Fist,Fist
+Fist/IMG_0878__jpeg.npy,Fist,Fist
+Fist/IMG_0878__jpg.npy,Fist,Fist
+Fist/IMG_0880__jpeg.npy,Fist,Fist
+Fist/IMG_0880__jpg.npy,Fist,Fist
+Fist/IMG_0883__jpeg.npy,Fist,Fist
+Fist/IMG_0883__jpg.npy,Fist,Fist
+Fist/IMG_0885__jpeg.npy,Fist,Fist
+Fist/IMG_0885__jpg.npy,Fist,Fist
+Fist/IMG_0889__jpeg.npy,Fist,Fist
+Fist/IMG_0889__jpg.npy,Fist,Fist
+Fist/IMG_0893__jpeg.npy,Fist,Fist
+Fist/IMG_0893__jpg.npy,Fist,Fist
+Fist/IMG_0898__jpeg.npy,Fist,Fist
+Fist/IMG_0898__jpg.npy,Fist,Fist
+Fist/IMG_9404 2__jpg.npy,Fist,Fist
+Fist/IMG_9404__jpg.npy,Fist,Fist
+Fist/IMG_9423 2__jpg.npy,Fist,Fist
+Fist/IMG_9423__jpg.npy,Fist,Fist
+Fist/IMG_9429 2__jpg.npy,Fist,Fist
+Fist/IMG_9429__jpg.npy,Fist,Fist
+Fist/IMG_9432 2__jpg.npy,Fist,Fist
+Fist/IMG_9432__jpg.npy,Fist,Fist
+Fist/IMG_9434 2__jpg.npy,Fist,Fist
+Fist/IMG_9434__jpg.npy,Fist,Fist
+Fist/IMG_9436 2__jpg.npy,Fist,Fist
+Fist/IMG_9436__jpg.npy,Fist,Fist
+Fist/IMG_9444 2__jpg.npy,Fist,Fist
+Fist/IMG_9444__jpg.npy,Fist,Fist
+Fist/IMG_9446 2__jpg.npy,Fist,Fist
+Fist/IMG_9446__jpg.npy,Fist,Fist
+Fist/IMG_9447 2__jpg.npy,Fist,Fist
+Fist/IMG_9447__jpg.npy,Fist,Fist
+Fist/IMG_9449 2__jpg.npy,Fist,L-Sign
+Fist/IMG_9449__jpg.npy,Fist,L-Sign
+Fist/IMG_9451 2__jpg.npy,Fist,V-Sign
+Fist/IMG_9451__jpg.npy,Fist,V-Sign
+Fist/IMG_9459 2__jpg.npy,Fist,L-Sign
+Fist/IMG_9459__jpg.npy,Fist,L-Sign
+Fist/IMG_9462 2__jpg.npy,Fist,Fist
+Fist/IMG_9462__jpg.npy,Fist,Fist
+Fist/IMG_9467 2__jpg.npy,Fist,Open Palm_Open Hand
+Fist/IMG_9467__jpg.npy,Fist,Open Palm_Open Hand
+Fist/IMG_9473 2__jpg.npy,Fist,Fist
+Fist/IMG_9473__jpg.npy,Fist,Fist
+Fist/IMG_9489 2__jpg.npy,Fist,Fist
+Fist/IMG_9489__jpg.npy,Fist,Fist
+Fist/IMG_9600__jpg.npy,Fist,Fist
+Fist/IMG_9606__jpg.npy,Fist,Fist
+Fist/IMG_9612__jpg.npy,Fist,Fist
+Fist/IMG_9615__jpg.npy,Fist,Fist
+Fist/IMG_9619__jpg.npy,Fist,Fist
+Fist/IMG_9620__jpg.npy,Fist,Fist
+Fist/IMG_9823__jpg.npy,Fist,Fist
+Fist/IMG_9831__jpg.npy,Fist,Fist
+Fist/IMG_9832__jpg.npy,Fist,Fist
+Fist/IMG_9833__jpg.npy,Fist,Fist
+Fist/IMG_9838__jpg.npy,Fist,Fist
+Fist/IMG_9927__jpg.npy,Fist,Fist
+Fist/IMG_9932__jpg.npy,Fist,L-Sign
+Fist/IMG_9990__jpg.npy,Fist,Fist
+Fist/IMG_9996__jpg.npy,Fist,Fist
+L-Sign/IMG_0464__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0465__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0468__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0470__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0472__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0473__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0592__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0592__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0600__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0600__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0601__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0601__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0604__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0604__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0606__jpeg.npy,L-Sign,V-Sign
+L-Sign/IMG_0606__jpg.npy,L-Sign,V-Sign
+L-Sign/IMG_0607__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0607__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0615__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0615__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0624__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0624__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0625__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0625__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0636__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0636__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0638__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0638__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0651__jpeg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0651__jpg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0655__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0655__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0656__jpeg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0656__jpg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0661__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0661__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0671__jpeg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0671__jpg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0674__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0674__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0676__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0676__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0680__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0680__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0683__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0683__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0688__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0688__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0689__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0689__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0738__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0738__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0744__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0744__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0750__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0750__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0763__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0763__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0765__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0765__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0767__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0767__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0773__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0773__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0784__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0784__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0787__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0787__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0791__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0791__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0795__jpeg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0795__jpg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_0804__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0804__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_0805__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_0805__jpg.npy,L-Sign,L-Sign
+L-Sign/IMG_8981__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_8983__jpeg.npy,L-Sign,Fist
+L-Sign/IMG_8984__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_8986__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_8988__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_8990__jpeg.npy,L-Sign,Pointing Up
+L-Sign/IMG_8992__jpeg.npy,L-Sign,Pointing Up
+L-Sign/IMG_8993__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_8995__jpeg.npy,L-Sign,Fist
+L-Sign/IMG_9003__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9004__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9007__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9011__jpeg.npy,L-Sign,Fist
+L-Sign/IMG_9016__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9033__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9039__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9043__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9048__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9068__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9077__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9078__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9080__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9085__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9089__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9094__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9095__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9099__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9102__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9104__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9109__jpeg.npy,L-Sign,L-Sign
+L-Sign/IMG_9118__jpeg.npy,L-Sign,Open Palm_Open Hand
+L-Sign/IMG_9125__jpeg.npy,L-Sign,L-Sign
+Open Palm_Open Hand/IMG_0042 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0042__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0055 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0055__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0056 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0056__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0065 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0065__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0073 2__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0073__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0108 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0108__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0122 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0122__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0129 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0129__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0130 2__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0130__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0141 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0141__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0198 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0198__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0203 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0203__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0217 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0217__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0220 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0220__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0226 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0226__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0227 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0227__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0231 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0231__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0235 2__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0235__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_0236 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0236__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0241 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0241__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0242 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0242__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0243 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0243__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0248 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0248__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0250 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0250__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0252 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0252__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0256 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_0256__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9330 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9330__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9332 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9332__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9335 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9335__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9340 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9340__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9348 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9348__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9350 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9350__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9357 2__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9357__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9358 2__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9358__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9364 2__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9364__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9366 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9366__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9371 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9371__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9373 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9373__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9374 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9374__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9379 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9379__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9380 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9380__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9385 2__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9385__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9388 2__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9388__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9391 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9391__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9398 2__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9398__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9540__jpg.npy,Open Palm_Open Hand,Fist
+Open Palm_Open Hand/IMG_9543__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9547__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9549__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9551__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9555__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9561__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9566__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9568__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9569__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9579__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9582__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9585__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9591__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9595__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9755__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9761__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9764__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9768__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9791__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9847__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9857__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9869__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9870__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9871__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9873__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9874__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9877__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9879__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9882__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9883__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9889__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9891__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9894__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9902__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9933__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9941__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9943__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9951__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9955__jpg.npy,Open Palm_Open Hand,L-Sign
+Open Palm_Open Hand/IMG_9958__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Open Palm_Open Hand/IMG_9964__jpg.npy,Open Palm_Open Hand,Open Palm_Open Hand
+Pointing Up/IMG_0095 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0095__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0096 2__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_0096__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_0100 2__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_0100__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_0107 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0107__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0168 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0168__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0174 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0174__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0184 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0184__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0294 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0294__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0299 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0299__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0302 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0302__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0311 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0311__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0314 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0314__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0386__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0387__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0391__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0393__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0403__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0408__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0411__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0414__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0906__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0906__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0911__jpeg.npy,Pointing Up,Open Palm_Open Hand
+Pointing Up/IMG_0911__jpg.npy,Pointing Up,Open Palm_Open Hand
+Pointing Up/IMG_0916__jpeg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0916__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_0923__jpeg.npy,Pointing Up,L-Sign
+Pointing Up/IMG_0923__jpg.npy,Pointing Up,L-Sign
+Pointing Up/IMG_9493 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9493__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9496 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9496__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9499 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9499__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9505 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9505__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9506 2__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_9506__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_9511 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9511__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9515 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9515__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9519 2__jpg.npy,Pointing Up,Fist
+Pointing Up/IMG_9519__jpg.npy,Pointing Up,Fist
+Pointing Up/IMG_9524 2__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9524__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9624__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9625__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9626__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9632__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9637__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9638__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9643__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9648__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9667__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9671__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9674__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9682__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9683__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9697__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9704__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9706__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9707__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9708__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9710__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9711__jpg.npy,Pointing Up,Pointing Up
+Pointing Up/IMG_9801__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_9812__jpg.npy,Pointing Up,V-Sign
+Pointing Up/IMG_9989__jpg.npy,Pointing Up,V-Sign
+V-Sign/IMG_0495__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0496__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0514__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0519__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0529__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0533__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0540__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0548__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0548__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0551__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0551__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0554__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0554__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0578__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0578__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0588__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0588__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0694__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0694__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0696__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0696__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0698__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0698__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0707__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0707__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0709__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0709__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0710__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0710__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0712__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0712__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0716__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0716__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0717__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0717__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0726__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0726__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0732__jpeg.npy,V-Sign,Pointing Up
+V-Sign/IMG_0732__jpg.npy,V-Sign,Pointing Up
+V-Sign/IMG_0733__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0733__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0734__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0734__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0813__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0813__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0814__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0814__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0825__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0825__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0827__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0827__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0830__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0830__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0834__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0834__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_0838__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_0838__jpg.npy,V-Sign,V-Sign
+V-Sign/IMG_8783__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8788__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8791__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8794__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8795__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8806__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8810__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8821__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8831__jpeg.npy,V-Sign,L-Sign
+V-Sign/IMG_8832__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8833__jpeg.npy,V-Sign,L-Sign
+V-Sign/IMG_8836__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8839__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8845__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8846__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8863__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8866__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8877__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8881__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8882__jpeg.npy,V-Sign,Pointing Up
+V-Sign/IMG_8885__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8892__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8898__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8904__jpeg.npy,V-Sign,Pointing Up
+V-Sign/IMG_8906__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8908__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8912__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8914__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8915__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8918__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8930__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8931__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8933__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8942__jpeg.npy,V-Sign,Pointing Up
+V-Sign/IMG_8943__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8945__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8950__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8951__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8954__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8962__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8968__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_8976__jpeg.npy,V-Sign,V-Sign
+V-Sign/IMG_E8553__heic.npy,V-Sign,V-Sign
+V-Sign/IMG_E8554__heic.npy,V-Sign,V-Sign
+V-Sign/IMG_E8556__heic.npy,V-Sign,V-Sign

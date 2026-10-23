@@ -1,0 +1,42 @@
+RAPPORT D'EVALUATION — HANDGESTURE-5G
+=======================================================
+
+1. CONFIGURATION DU MODELE
+Algorithme : K-Nearest Neighbors (K-NN)
+Standardisation : StandardScaler
+Nombre de voisins : 3
+Ponderation : distance
+Metrique de distance : euclidienne
+Caracteristiques : 7 moments de Hu transformes
+
+2. DONNEES D'EVALUATION
+Nombre d'images evaluees : 531
+Predictions correctes : 462
+Predictions incorrectes : 69
+
+3. METRIQUES ENREGISTREES
+       metrique   valeur
+       accuracy 0.870056
+precision_macro 0.872511
+   rappel_macro 0.868934
+       f1_macro 0.869922
+    f1_weighted 0.869949
+
+4. MATRICE DE CONFUSION
+Lignes : classes reelles ; colonnes : classes predites.
+                     Fist  L-Sign  Open Palm_Open Hand  Pointing Up  V-Sign
+Fist                   97       5                    4            0       2
+L-Sign                  3      92                    9            2       2
+Open Palm_Open Hand     7      13                  112            0       0
+Pointing Up             2       2                    2           66       9
+V-Sign                  0       2                    0            5      95
+
+5. INTERPRETATION
+Exactitude calculee depuis la matrice : 0.8701 (87.01 %)
+
+Les performances observees concernent le jeu de test utilise
+dans ce projet. Elles ne garantissent pas les memes resultats
+sur des images externes ou dans toutes les conditions.
+
+Le modele sauvegarde est documente dans README_model.md.
+Sa configuration est disponible dans models/model_config.json.
